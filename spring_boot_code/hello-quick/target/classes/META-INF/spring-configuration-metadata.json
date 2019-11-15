@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "persion",
+      "type": "com.zeng.helloquick.bean.Persion",
+      "sourceType": "com.zeng.helloquick.bean.Persion"
+    }
+  ],
+  "properties": [
+    {
+      "name": "persion.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.zeng.helloquick.bean.Persion"
+    },
+    {
+      "name": "persion.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.zeng.helloquick.bean.Persion"
+    },
+    {
+      "name": "persion.dog",
+      "type": "com.zeng.helloquick.bean.Dog",
+      "sourceType": "com.zeng.helloquick.bean.Persion"
+    },
+    {
+      "name": "persion.list",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.zeng.helloquick.bean.Persion"
+    },
+    {
+      "name": "persion.map",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.zeng.helloquick.bean.Persion"
+    },
+    {
+      "name": "persion.name",
+      "type": "java.lang.String",
+      "sourceType": "com.zeng.helloquick.bean.Persion"
+    }
+  ],
+  "hints": []
+}
